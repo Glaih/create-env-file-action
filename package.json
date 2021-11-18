@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ozaytsev86/create-env-file#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6"
+    "@actions/core": "^1.6.0"
   }
 }
